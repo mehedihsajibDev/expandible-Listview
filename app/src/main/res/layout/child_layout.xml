@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ea0bbe"
+    android:layout_width="match_parent"
+    android:layout_height="55dp">
+    <TextView
+        android:id="@+id/childtexviewid"
+        android:textSize="17sp"
+        android:paddingLeft="?android:expandableListPreferredChildPaddingLeft"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

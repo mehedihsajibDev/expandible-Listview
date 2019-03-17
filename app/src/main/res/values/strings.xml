@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Expandible_Listview</string>
+
+    <string-array name="abbreviation_header">
+        <item> BA  </item>
+        <item>BS   </item>
+        <item> MA  </item>
+        <item> JD  </item>
+        <item> DC  </item>
+        <item> PA  </item>
+        <item>MD </item>
+        <item> VP  </item>
+        <item> SVP  </item>
+        <item> EVP 	 </item>
+        <item> CMO  </item>
+        <item> CFO  </item>
+        <item>CEO  </item>
+
+    </string-array>
+
+    <string-array name="abbreviation_child">
+        <item> Bachelor of Arts  </item>
+        <item>  Bachelor of Science  </item>
+        <item> Master of Arts  </item>
+        <item> Juris Doctor  </item>
+        <item> Doctor of Chiropractic  </item>
+        <item>  Personal Assistant </item>
+        <item>  Managing Director </item>
+        <item>  Vice President  </item>
+        <item>  Senior Vice President  </item>
+        <item>  Executive Vice President  </item>
+        <item>Chief Marketing Officer
+    </item>
+        <item> Chief Financial Officer   </item>
+        <item>  Chief Executive Officer  </item>
+
+    </string-array>
+</resources>
