@@ -9,21 +9,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
-            >
+        <activity android:name=".practicetwo"></activity>
+        <activity android:name=".practiceone" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Main2Activity"
+        <activity
+            android:name=".Main2Activity"
             android:parentActivityName=".MainActivity">
-          <!--  <intent-filter>
+
+            <!--
+            <intent-filter>
                 <action android:name=".Main2Activity" />
 
                 <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>-->
+            </intent-filter>
+            -->
         </activity>
     </application>
 
